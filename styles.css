@@ -476,7 +476,7 @@ footer{
     font-weight: 600;
 }
 
-@media (width >=1204px){
+@media (width >=1000px){
     nav{
         padding: 2rem 1.5rem;
         align-items: center;
